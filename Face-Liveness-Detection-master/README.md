@@ -1,5 +1,4 @@
-# Face Liveness Detection (CRMNet)
-![alt text](https://github.com/sakethbachu/Face-Liveness-Detection/blob/master/sample_liveness_data/Desc%20info/livenessg.gif "Logo Title Text 1")
+
 
 ---
 ## Description
